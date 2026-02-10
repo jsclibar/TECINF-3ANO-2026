@@ -9,7 +9,7 @@ INICIO
 		1.	Desligar o interruptor da lâmpada.
 		2.	Garantir que não há energia passando (desligar o disjuntor, se possível).
 		3.	Aguardar alguns segundos para a lâmpada esfriar.
-		4.	Posicionar a escada de forma segura, se a lâmpada estiver alta.
+		4.	Posicionar a escada de forma segura.
 		5.	Girar a lâmpada queimada no sentido anti-horário até removê-la.
 		6.	Pegar a lâmpada nova.
 		7.	Rosquear a lâmpada nova no sentido horário até ficar firme.

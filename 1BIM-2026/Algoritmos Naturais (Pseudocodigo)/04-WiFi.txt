@@ -10,11 +10,10 @@ INICIO
 		1.	Desbloquear o celular.
 		2.	Abrir as configurações do aparelho.
 		3.	Acessar as opções de Wi-Fi.
-		4.	Ativar o Wi-Fi, se estiver desligado.
-		5.	Selecionar a rede desejada.
-		6.	Informar a senha da rede.
-		7.	Confirmar a conexão.
-		8.	Testar o acesso à internet.
+		4.	Selecionar a rede desejada.
+		5.	Informar a senha da rede.
+		6.	Confirmar a conexão.
+		7.	Testar o acesso à internet.
 
 	SAÍDA
 		•	Celular conectado à rede Wi-Fi e à internet.
