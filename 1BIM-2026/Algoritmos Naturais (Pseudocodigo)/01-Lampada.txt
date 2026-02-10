@@ -1,11 +1,11 @@
 Algoritmo para trocar a Lampada
 
 INICIO
-	ENTRADA
+	// ENTRADA
 		•	Lâmpada nova
 		•	Escada (se necessário)
 
-	PROCESSAMENTO
+	// PROCESSAMENTO
 		1.	Desligar o interruptor da lâmpada.
 		2.	Garantir que não há energia passando (desligar o disjuntor, se possível).
 		3.	Aguardar alguns segundos para a lâmpada esfriar.
@@ -16,6 +16,6 @@ INICIO
 		8.	Ligar novamente a energia elétrica.
 		9.	Acionar o interruptor para testar.
 
-	SAÍDA
+	// SAÍDA
 		•	Lâmpada nova instalada e funcionando.	
 FIM
