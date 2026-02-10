@@ -1,0 +1,20 @@
+Algoritmo para enviar uma mensagem por WhatsApp
+
+INICIO
+	ENTRADA
+		•	Celular
+		•	Aplicativo WhatsApp instalado
+		•	Contato destinatário
+		•	Mensagem a ser enviada
+
+	PROCESSAMENTO
+		1.	Desbloquear o celular.
+		2.	Abrir o aplicativo WhatsApp.
+		3.	Localizar e abrir a conversa do contato desejado.
+		4.	Digitar a mensagem no campo de texto.
+		5.	Conferir o texto e o destinatário.
+		6.	Tocar no botão de enviar.
+
+	SAÍDA
+		•	Mensagem enviada ao contato selecionado.
+FIM

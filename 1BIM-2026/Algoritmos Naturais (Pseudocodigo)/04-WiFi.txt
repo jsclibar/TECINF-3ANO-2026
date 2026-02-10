@@ -1,0 +1,21 @@
+Algoritmo para conectar-se a uma rede Wi-Fi
+
+INICIO
+	ENTRADA
+		•	Celular
+		•	Rede Wi-Fi disponível
+		•	Senha da rede Wi-Fi
+
+	PROCESSAMENTO
+		1.	Desbloquear o celular.
+		2.	Abrir as configurações do aparelho.
+		3.	Acessar as opções de Wi-Fi.
+		4.	Ativar o Wi-Fi, se estiver desligado.
+		5.	Selecionar a rede desejada.
+		6.	Informar a senha da rede.
+		7.	Confirmar a conexão.
+		8.	Testar o acesso à internet.
+
+	SAÍDA
+		•	Celular conectado à rede Wi-Fi e à internet.
+FIM

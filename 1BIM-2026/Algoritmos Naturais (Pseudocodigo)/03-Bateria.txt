@@ -1,0 +1,18 @@
+Algoritmo para carregar a bateria do celular
+
+INICIO
+	ENTRADA
+		•	Celular
+		•	Carregador compatível
+		•	Tomada ou porta USB disponível
+
+	PROCESSAMENTO
+		1.	Conectar o cabo do carregador ao celular.
+		2.	Conectar o carregador à tomada ou porta USB.
+		3.	Verificar se o celular indica que está carregando.
+		4.	Aguardar até a bateria atingir o nível desejado.
+		5.	Desconectar o carregador do celular.
+
+	SAÍDA
+		•	Celular com a bateria carregada.
+FIM

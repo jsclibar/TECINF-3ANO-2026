@@ -1,0 +1,21 @@
+Algoritmo para preparar uma mala para viagem
+
+INICIO
+	ENTRADA
+		•	Mala
+		•	Destino da viagem
+		•	Duração da viagem
+		•	Roupas e itens pessoais
+		•	Documentos necessários
+
+	PROCESSAMENTO
+		1.	Verificar o destino, a duração da viagem e o clima.
+		2.	Selecionar roupas adequadas para a viagem.
+		3.	Separar documentos e itens essenciais.
+		4.	Organizar as roupas e objetos dentro da mala.
+		5.	Conferir se todos os itens necessários foram incluídos.
+		6.	Fechar a mala.
+
+	SAÍDA
+		•	Mala pronta para a viagem.
+FIM
