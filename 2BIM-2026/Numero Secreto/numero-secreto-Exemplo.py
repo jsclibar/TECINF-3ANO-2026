@@ -1,7 +1,39 @@
 import random
 
+menu = '''
+Escolha a dificuldade:
+1 - Fácil
+2 - Médio
+3 - Difícil
+4 - Desisto! Não quero jogar.
+'''
+print(menu)  # Imprime o menu de escolha da dificuldade
+
+dificuldade = int(input('Digite a dificuldade: '))
+
+if dificuldade == 1:  # Se a dificuldade for 1 (Fácil)
+    limite = 50  # O limite do número secreto será 50
+    # O jogador terá 10 vidas (tentativas) para acertar o número secreto
+    vidas = 10
+
+elif dificuldade == 2:  # Se a dificuldade for 2 (Médio)
+    limite = 100  # O limite do número secreto será 100
+    # O jogador terá 7 vidas (tentativas) para acertar o número secreto
+    vidas = 7
+
+elif dificuldade == 3:  # Se a dificuldade for 3 (Difícil)
+    limite = 500  # O limite do número secreto será 500
+    # O jogador terá 5 vidas (tentativas) para acertar o número secreto
+    vidas = 5
+
+elif dificuldade == 4:  # Se a dificuldade for 4 (Desisto)
+    # Imprime uma mensagem de despedida caso o jogador escolha desistir do jogo
+    print('Que pena! Você desistiu do jogo.')
+    exit()  # Encerra o programa imediatamente
+
+
 # O computador escolhe um número
-numero_secreto = random.randint(1, 100)
+numero_secreto = random.randint(1, limite)
 
 fim_jogo = False # Variável booleana para controlar o fim do jogo
 
