@@ -28,5 +28,3 @@ Quantidade de notas: 10
 Digite o valor do saque: 0
 Programa encerrado.
 ```
-
-**Entregue o código-fonte devidamente comentado e funcionando corretamente.**
