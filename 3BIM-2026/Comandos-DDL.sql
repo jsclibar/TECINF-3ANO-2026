@@ -84,6 +84,6 @@ WHERE idaluno IN (2, 6);
 DELETE FROM ALUNO
 WHERE idade >= 20;
 
-/* Deleta os registros dos alunos do sexo feminino */
+/* Deleta os registros dos alunos do sexo feminino. */
 DELETE FROM ALUNO
 WHERE sexo = 'F';
