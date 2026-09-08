@@ -31,3 +31,23 @@ CREATE TABLE ALUNO (
     nome varchar(50),
     ativo_sn int
 );
+
+/* Lista a estrutura da tabela ALUNO */
+
+DESC aluno
+
+/* Adiciona a coluna email_principal na tabela ALUNO */
+
+ALTER TABLE ALUNO ADD email_principal varchar(50);
+
+/* Altera a coluna email_principal para email com o mesmo tipo varchar(50) */
+
+ALTER TABLE ALUNO CHANGE COLUMN email email varchar(50);
+
+/* Remove a coluna endereco da tabela ALUNO */
+
+ALTER TABLE ALUNO DROP COLUMN endereco;
+
+/* Altera o tamanho da coluna email para 150 caracteres */
+
+ALTER TABLE ALUNO MODIFY COLUMN email varchar(150);
