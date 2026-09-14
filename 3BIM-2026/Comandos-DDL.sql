@@ -42,7 +42,7 @@ ALTER TABLE ALUNO ADD email_principal varchar(50);
 
 /* Altera a coluna email_principal para email com o mesmo tipo varchar(50) */
 
-ALTER TABLE ALUNO CHANGE COLUMN email email varchar(50);
+ALTER TABLE ALUNO CHANGE COLUMN email_principal email varchar(50);
 
 /* Remove a coluna endereco da tabela ALUNO */
 
